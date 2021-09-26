@@ -18,7 +18,7 @@
 
 # How to work's with it? 
 
-* Pull Requests *
+Pull Requests (GitHub)
 - Open Pull Request with your favourite sticker and we will add him :)
 
 Or you can create your own sticker-pack:
