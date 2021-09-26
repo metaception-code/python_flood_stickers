@@ -18,8 +18,11 @@
 
 # How to work's with it? 
 
+* Pull Requests *
 - Open Pull Request with your favourite sticker and we will add him :)
 
+Or you can create your own sticker-pack:
 
-
-
+- Open Stickers bot on telegram
+- Git clone this repo 
+- Publish all files to bot and be cool =)
