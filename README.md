@@ -3,7 +3,7 @@
 ----
 
 <p float="left">
-  <img src="" width="400">
+  <img src="https://github.com/NameEgor/python_flood_stickers/blob/main/photo_2021-09-26%2018.05.00.jpeg?raw=true" width="400">
 
 </p>
 
