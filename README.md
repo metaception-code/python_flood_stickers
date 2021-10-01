@@ -26,3 +26,7 @@ Or you can create your own sticker-pack:
 - Open Stickers bot on telegram
 - Git clone this repo 
 - Publish all files to bot and be cool =)
+
+Useful bots:
+@QuotLyBot (for creating stickers from messages)
+@Stickers (for making stickerpacs)
