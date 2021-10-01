@@ -18,6 +18,10 @@
 
 # How to work's with it? 
 
+Requirements:
+- 500x500 pixels
+- png format
+
 Pull Requests (GitHub)
 - Open Pull Request with your favourite sticker and we will add him :)
 
